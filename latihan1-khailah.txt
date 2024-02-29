@@ -1,4 +1,5 @@
-hai, hari ini saya belajar menggunakan github
-semoga semuanya bisa berjalan dengan lancar
-ternyata semuanya baik baik saja
-sekarang apa
+Saya akan membuat sebuah kue
+- pertama tama saya akan mencari apa kue yang akan saya buat
+- kue yang tidak menggunakan oven
+- kue yang mudah untuk dibuat tapi enak
+- mungkin membuat bolu kukus coklat
